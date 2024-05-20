@@ -1,0 +1,12 @@
+1. Cara kerja Servo yaitu dengan menggerakan motor yang dikendalikan lewat satu pin digital, dengan satu pin vcc dan satu pin ground sebagai sumber energi listriknya. 
+2. Cara kerja LCD yaitu dengan memunculkan suatu text ke layar LCD, yang dikendalikan lewat pin SDA dan SCL, dan pin vcc dan ground sebagai sumber energi listriknya.
+3. Contoh penggunaan Pemrograman Sistem Tertanam pada kehidupan sehari-hari yaitu :
+    - Penyalaan Lampu terjadwal secara otomatis. Lampu menyala sesuai jadwal yang diberikan.
+    - Pembuka dan penutup atap jemuran secara otomatis. Atap menutup bila turun hujan dan sebaliknya.
+    - Penyiraman tanaman secara otomatis. Tanaman akan disiram jika tanah kekurangan air.
+    - Pemberian pakan ternak secara otomatis. Tempat pakan akan terbuka sesuai jadwal.
+    - Pembukan dan penutup pintu secara otomatis. Pintu a
+4. Project yang akan kelompok kami buat yaitu pembuka dan penutup atap jemuran secara otomatis, atap akan menutup jika sedang turun hujan, dan sebaliknya akan membuka jika tidak sedang turun hujan. 
+    Sebagai prototype atap jemurannya, kami akan menggunakan kardus. Untuk komponennya ada Arduino UNO R3, 
+    sensor kelembapan untuk mengecek apakah sedang turun hujan atau tidak, kemudian ada servo, sebagai penggerak 
+    atap jemuran, breadboard, dan baterai sebagai sumber energi listrik untuk komponen-komponennya.
