@@ -27,4 +27,5 @@ void loop() {
     lcd.setCursor(0,1) // set kursor Layar LCD ke bagian (0,1)
     myservo.write(90); // menggerakan servo sebesar 90 derajat
     lcd.print("Tertutup") // menampilkan teks "Tertutup" ke dalam Layar LCD
+    delay(5000) // melakukan delay selama 5 detik
 }
